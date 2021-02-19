@@ -44,7 +44,7 @@ export default class HolaPnpWebPart extends BaseClientSideWebPart<IHolaPnpWebPar
               <p class="${ styles.mystyle }">Color: ${escape(this.properties.color)}</p>
               <p class="${ styles.mystyle }">Fecha: ${escape(valorFecha)}</p>
               <p class="${ styles.mystyle }">DropDwon:  ${escape(this.properties.lists?"a":"b")}</p>
-              <button type="button" class="btn btn-danger">Dangddder</button>
+              <button type="button" class="btn btn-danger">mi prueba con git</button>
 
               <!-- Button trigger modal -->
               <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
